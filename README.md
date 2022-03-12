@@ -1,4 +1,10 @@
 # classes_practice
+
+Went on to do a machine learning class for the titanic data set. 
+* Started by filtering out rows with null ages, but that reduced data available too much.  
+* Included fare after removing age, up to 82% accuracy. 
+
+* However, I can't get my get_dummies() to work within the function. for now I will settle for the nice prediction.
 Hey all, nothing to see here. Just practicing with classes. 
 
 would be nice to do a data cleaning process for a new data set, do some light visualizations, and then turn the whole thing into a class. 
@@ -21,3 +27,6 @@ people who passed the civil servant exam:
 
 Possible objective:
     * Create a class for the first one, and USE that class to actually analyze the next one. a little ambitous and I would need to stay focus on data transformations. then we can do a lot of stuff in tableau. 
+
+
+
